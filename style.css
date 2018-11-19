@@ -1,0 +1,141 @@
+*{margin:0; padding:0;}
+body{background-color:#535353; background-image: url(images/mbg.jpg); background-repeat: repeat-x;}
+img{border:0; text-align:left; vertical-align:top;}
+ul{list-style:none;}
+.column{float:left;}
+.clear{clear:both;}
+body{font-family:Tahoma, Arial, helvetica, sans-serif; color:#555555; font-size:0.6875em; line-height:1.45em; text-align:center;}
+input, textarea, select{
+	color:#555555;
+	vertical-align:top;
+	text-align:left;
+	border: 1px solid #808080;
+	font:11px Tahoma, Arial, helvetica, sans-serif;
+}
+.tar{text-align:right;}
+.in5{padding-top:5px;}
+.in10{padding-top:10px;}
+.in15{padding-top:15px;}
+.in20{padding-top:20px; font-size:12px;}
+.in25{padding-top:25px;}
+.in21{
+	padding-top:20px;
+	font-size:16px;
+}
+
+.ws{width:100%;}
+
+.col_1, .col_2, .col_3, .box_1, .box_2, .box_3, .mid{float:left;}
+
+/*=======header===========*/
+#header .menu{padding:28px 0 0 28px;}
+#header .logo{width:553px; height:93px; float:left;}
+
+#header .logo div{padding:20px 0 0 55px;}
+#header .logo h1{text-indent:-10000px; font-size:1em; left top no-repeat; height:49px;}
+
+#header .nav{width:213px; float:left; padding-top:38px;}
+#header .nav .dv{margin:0 27px 0 27px;}
+/*=====//header===========*/
+
+/*=======content===========*/
+#content{padding:0 21px 0 27px;}
+#content .m_block{background:url(images/m_block_top.jpg) left top repeat-x #FFFFFF; width:100%;}
+#content .m_block .bot{background:url(images/m_block_bot.jpg) left bottom repeat-x;}
+#content .m_block .left{background:url(images/m_block_left.jpg) left top repeat-y;}
+#content .m_block .right{background:url(images/m_block_right.jpg) right top repeat-y;}
+#content .m_block .left_top{background:url(images/m_block_left_top.jpg) left top no-repeat;}
+#content .m_block .right_top{background:url(images/m_block_right_top.jpg) right top no-repeat;}
+#content .m_block .left_bot{background:url(images/m_block_left_bot.jpg) left bottom no-repeat;}
+#content .m_block .right_bot{background:url(images/m_block_right_bot.jpg) right bottom no-repeat; padding:21px 27px 38px 24px;}
+
+.pic{margin-right:19px; float:left;}
+.title{margin-bottom:15px;}
+
+a{color:#555555; text-decoration:underline;}
+a:hover{text-decoration:none;}
+
+.link_2{color:#7EB620; text-decoration:underline; font-size:1.09em;}
+.link_2:hover{text-decoration:none;}
+
+.link_3{color:#3997D5; text-decoration:underline; font-size:1.09em;}
+.link_3:hover{text-decoration:none;}
+
+b a{color:#5D5D5D; text-decoration:underline; font-weight:normal; padding-left:10px; background:url(images/b_link.gif) left 7px no-repeat;}
+b a:hover{text-decoration:none;}
+
+.col_2{padding-top:18px;}
+
+li{padding:0 0 1px 0;}
+li a{color:#484F65; text-decoration:underline; font-weight:bold; padding-left:15px; background:url(images/list_bg.gif) left 7px no-repeat; line-height:1em;}
+li a:hover{text-decoration:none;}
+
+.col_1 .indent{padding:18px 3px 0 12px;}
+
+.line_x{height:4px; background:#EBEBEB; margin:35px 0 25px 0;}
+
+.line_height_2{line-height:1.27em;}
+/*=====//content===========*/
+
+/*=======page_1===========*/
+#page_1 .m_block .right_bot{padding-bottom:18px;}
+#page_1 .col_1 .indent{padding:18px 10px 0 16px;}
+
+#page_1 .col_2 .indent{padding:0 9px 0 11px;}
+
+#page_1 .col_2 ul{margin:27px 0 0 15px;}
+/*=====//page_1===========*/
+
+/*=======page_2===========*/
+#page_2 .col_1 .box_1{width:213px;}
+#page_2 .col_1 .box_2{width:185px;}
+/*=====//page_2===========*/
+
+/*=======page_5===========*/
+#form .box_1{width:206px;}
+#form .box_1 div{height:39px;}
+#form .box_2{width:197px;}
+
+#form input{width:190px; height:20px;}
+#form textarea{width:197px; height:59px; overflow:hidden; margin-bottom:7px;}
+/*=====//page_5===========*/
+
+/*=======page_6 trabajos  ===========*/
+#page_6 .m_block .right_bot {
+	padding:39px 36px 46px 36px;
+	font-size: 14px;
+}
+#page_6 .main .tableImages td {
+	text-align: center;
+}
+#page_6 .main .tableImages .enlaceDerecha {
+	text-align: right;
+}
+#page_6 .main .tableImages .newImages {
+	width: 150px;
+	height: 102px;
+}
+#page_6 .main .tableImages .horiz {
+	width: 110px;
+	height: 150px;
+	/*-webkit-transform: rotate(90deg);
+	-moz-transform: rotate(90deg);
+	rotation: 90deg;
+	filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=1);*/
+}
+/*=====//page_6===========*/
+
+/*=======page_7 mas-trabajos  ===========*/
+#page_7 .m_block .right_bot {
+	padding:39px 36px 46px 36px;
+	font-size: 14px;
+}
+
+/*=======footer===========*/
+#footer{height:99px; padding:0 20px 0 26px; color:#707070;}
+#footer .bg{background:url(images/footert_bg.jpg) left top repeat-x;}
+#footer .left{background:url(images/footer_left_bg.jpg) left top no-repeat;}
+#footer .right{background:url(images/footer_right_bg.jpg) right top no-repeat; padding:34px 0 32px 41px;}
+#footer a{color:#707070; text-decoration:underline;}
+#footer a:hover{text-decoration:none;}
+/*=====//footer===========*/

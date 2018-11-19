@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AugmentPageProps.php" server="pavimpresostalavera.es" local="131738214916155345" remote="131758025400000000" Dst="2" />
+<file name="DummySearchIndexFieldDefinition.php" server="pavimpresostalavera.es" local="131738214915805401" remote="131758025400000000" Dst="2" />
+<file name="NullIndexField.php" server="pavimpresostalavera.es" local="131738214914544561" remote="131758025400000000" Dst="2" />
+<file name="ParserOutputSearchDataExtractor.php" server="pavimpresostalavera.es" local="131738214914194625" remote="131758025400000000" Dst="2" />
+<file name="PerRowAugmentor.php" server="pavimpresostalavera.es" local="131738214912864839" remote="131758025400000000" Dst="2" />
+<file name="ResultSetAugmentor.php" server="pavimpresostalavera.es" local="131738214911185424" remote="131758025400000000" Dst="2" />
+<file name="SearchDatabase.php" server="pavimpresostalavera.es" local="131738214910935498" remote="131758025400000000" Dst="2" />
+<file name="ResultAugmentor.php" server="pavimpresostalavera.es" local="131738214912754852" remote="131758025400000000" Dst="2" />
+<file name="SearchEngineConfig.php" server="pavimpresostalavera.es" local="131738214906577010" remote="131758025400000000" Dst="2" />
+<file name="SearchEngineFactory.php" server="pavimpresostalavera.es" local="131738214908955237" remote="131758025400000000" Dst="2" />
+<file name="SearchEngine.php" server="pavimpresostalavera.es" local="131738214908503817" remote="131758025400000000" Dst="2" />
+<file name="SearchHighlighter.php" server="pavimpresostalavera.es" local="131738214904144769" remote="131758025400000000" Dst="2" />
+<file name="SearchIndexField.php" server="pavimpresostalavera.es" local="131738214902722169" remote="131758025400000000" Dst="2" />
+<file name="SearchExactMatchRescorer.php" server="pavimpresostalavera.es" local="131738214904774674" remote="131758025400000000" Dst="2" />
+<file name="SearchMssql.php" server="pavimpresostalavera.es" local="131738214901268402" remote="131758025400000000" Dst="2" />
+<file name="SearchMySQL.php" server="pavimpresostalavera.es" local="131738214900878126" remote="131758025400000000" Dst="2" />
+<file name="SearchIndexFieldDefinition.php" server="pavimpresostalavera.es" local="131738214902302299" remote="131758025400000000" Dst="2" />
+<file name="SearchNearMatchResultSet.php" server="pavimpresostalavera.es" local="131738214899726346" remote="131758025400000000" Dst="2" />
+<file name="SearchOracle.php" server="pavimpresostalavera.es" local="131738214897881689" remote="131758025400000000" Dst="2" />
+<file name="SearchNearMatcher.php" server="pavimpresostalavera.es" local="131738214899266398" remote="131758025400000000" Dst="2" />
+<file name="SearchPostgres.php" server="pavimpresostalavera.es" local="131738214896938525" remote="131758025400000000" Dst="2" />
+<file name="SearchResult.php" server="pavimpresostalavera.es" local="131738214895953467" remote="131758025400000000" Dst="2" />
+<file name="SearchResultSet.php" server="pavimpresostalavera.es" local="131738214895241819" remote="131758025400000000" Dst="2" />
+<file name="SearchSqlite.php" server="pavimpresostalavera.es" local="131738214893469658" remote="131758025400000000" Dst="2" />
+<file name="SearchSuggestion.php" server="pavimpresostalavera.es" local="131738214892826742" remote="131758025400000000" Dst="2" />
+<file name="SearchSuggestionSet.php" server="pavimpresostalavera.es" local="131738214891759624" remote="131758025400000000" Dst="2" />
+<file name="SqlSearchResultSet.php" server="pavimpresostalavera.es" local="131738214891289694" remote="131758025400000000" Dst="2" />
+</dwsync>

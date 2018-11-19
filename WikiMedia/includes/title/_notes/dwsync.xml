@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ForeignTitle.php" server="pavimpresostalavera.es" local="131738215153941225" remote="131758026000000000" Dst="2" />
+<file name="ForeignTitleFactory.php" server="pavimpresostalavera.es" local="131738215153348698" remote="131758026000000000" Dst="2" />
+<file name="ImportTitleFactory.php" server="pavimpresostalavera.es" local="131738215152112355" remote="131758026000000000" Dst="2" />
+<file name="MediaWikiTitleCodec.php" server="pavimpresostalavera.es" local="131738215149861701" remote="131758026000000000" Dst="2" />
+<file name="NaiveForeignTitleFactory.php" server="pavimpresostalavera.es" local="131738215149661728" remote="131758026000000000" Dst="2" />
+<file name="MalformedTitleException.php" server="pavimpresostalavera.es" local="131738215151972381" remote="131758026000000000" Dst="2" />
+<file name="NaiveImportTitleFactory.php" server="pavimpresostalavera.es" local="131738215148129235" remote="131758026000000000" Dst="2" />
+<file name="NamespaceAwareForeignTitleFactory.php" server="pavimpresostalavera.es" local="131738215147939282" remote="131758026000000000" Dst="2" />
+<file name="NamespaceImportTitleFactory.php" server="pavimpresostalavera.es" local="131738215146527894" remote="131758026000000000" Dst="2" />
+<file name="SubpageImportTitleFactory.php" server="pavimpresostalavera.es" local="131738215146014415" remote="131758026000000000" Dst="2" />
+<file name="TitleFormatter.php" server="pavimpresostalavera.es" local="131738215145074559" remote="131758026000000000" Dst="2" />
+<file name="TitleParser.php" server="pavimpresostalavera.es" local="131738215144493026" remote="131758026000000000" Dst="2" />
+<file name="TitleValue.php" server="pavimpresostalavera.es" local="131738215142378048" remote="131758026000000000" Dst="2" />
+</dwsync>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="tables-db2.sql" server="pavimpresostalavera.es" local="131738208550554870" remote="131758020600000000" Dst="2" />
+<file name="tables-ibase.sql" server="pavimpresostalavera.es" local="131738208550444904" remote="131758020600000000" Dst="2" />
+<file name="tables-mssql.sql" server="pavimpresostalavera.es" local="131738208549050415" remote="131758020600000000" Dst="2" />
+<file name="tables-mysql.sql" server="pavimpresostalavera.es" local="131738208548910159" remote="131758020600000000" Dst="2" />
+<file name="tables-oracle.sql" server="pavimpresostalavera.es" local="131738208546408746" remote="131758020600000000" Dst="2" />
+<file name="tables-postgres.sql" server="pavimpresostalavera.es" local="131738208543996494" remote="131758020600000000" Dst="2" />
+<file name="upgrade-db2.sql" server="pavimpresostalavera.es" local="131738208538322252" remote="131758020600000000" Dst="2" />
+<file name="upgrade-ibase.sql" server="pavimpresostalavera.es" local="131738208537832337" remote="131758020600000000" Dst="2" />
+<file name="tables-sqlite.php" server="pavimpresostalavera.es" local="131738208545226283" remote="131758020600000000" Dst="2" />
+<file name="upgrade-mysql.sql" server="pavimpresostalavera.es" local="131738208536154555" remote="131758020600000000" Dst="2" />
+<file name="upgrade-oracle.sql" server="pavimpresostalavera.es" local="131738208534269130" remote="131758020600000000" Dst="2" />
+<file name="upgrade-mssql.sql" server="pavimpresostalavera.es" local="131738208536699649" remote="131758020600000000" Dst="2" />
+<file name="upgrade-postgres.sql" server="pavimpresostalavera.es" local="131738208533560084" remote="131758020600000000" Dst="2" />
+<file name="upgrade_matrix.php" server="pavimpresostalavera.es" local="131738208526935607" remote="131758020600000000" Dst="2" />
+</dwsync>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="APCBagOStuff.php" server="pavimpresostalavera.es" local="131738214598628656" remote="131758025400000000" Dst="2" />
+<file name="APCUBagOStuff.php" server="pavimpresostalavera.es" local="131738214598356934" remote="131758025400000000" Dst="2" />
+<file name="CachedBagOStuff.php" server="pavimpresostalavera.es" local="131738214596806879" remote="131758025400000000" Dst="2" />
+<file name="BagOStuff.php" server="pavimpresostalavera.es" local="131738214597168451" remote="131758025400000000" Dst="2" />
+<file name="EmptyBagOStuff.php" server="pavimpresostalavera.es" local="131738214594990324" remote="131758025400000000" Dst="2" />
+<file name="HashBagOStuff.php" server="pavimpresostalavera.es" local="131738214594730433" remote="131758025400000000" Dst="2" />
+<file name="IExpiringStore.php" server="pavimpresostalavera.es" local="131738214593467363" remote="131758025400000000" Dst="2" />
+<file name="MemcachedBagOStuff.php" server="pavimpresostalavera.es" local="131738214593067418" remote="131758025400000000" Dst="2" />
+<file name="MemcachedClient.php" server="pavimpresostalavera.es" local="131738214591957589" remote="131758025400000000" Dst="2" />
+<file name="MemcachedPeclBagOStuff.php" server="pavimpresostalavera.es" local="131738214591515834" remote="131758025400000000" Dst="2" />
+<file name="MemcachedPhpBagOStuff.php" server="pavimpresostalavera.es" local="131738214589325717" remote="131758025400000000" Dst="2" />
+<file name="MultiWriteBagOStuff.php" server="pavimpresostalavera.es" local="131738214589305652" remote="131758025400000000" Dst="2" />
+<file name="RedisBagOStuff.php" server="pavimpresostalavera.es" local="131738214587712391" remote="131758025400000000" Dst="2" />
+<file name="ReplicatedBagOStuff.php" server="pavimpresostalavera.es" local="131738214585977455" remote="131758025400000000" Dst="2" />
+<file name="RESTBagOStuff.php" server="pavimpresostalavera.es" local="131738214587892362" remote="131758025400000000" Dst="2" />
+<file name="WANObjectCacheReaper.php" server="pavimpresostalavera.es" local="131738214584406463" remote="131758025400000000" Dst="2" />
+<file name="WANObjectCache.php" server="pavimpresostalavera.es" local="131738214586447453" remote="131758025400000000" Dst="2" />
+<file name="WinCacheBagOStuff.php" server="pavimpresostalavera.es" local="131738214583181323" remote="131758025400000000" Dst="2" />
+<file name="XCacheBagOStuff.php" server="pavimpresostalavera.es" local="131738214581818602" remote="131758025400000000" Dst="2" />
+</dwsync>

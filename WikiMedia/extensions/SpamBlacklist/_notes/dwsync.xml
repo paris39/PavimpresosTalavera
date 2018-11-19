@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BaseBlacklist.php" server="pavimpresostalavera.es" local="131738212501356218" remote="131758023600000000" Dst="2" />
+<file name="CODE_OF_CONDUCT.md" server="pavimpresostalavera.es" local="131738212500396326" remote="131758023600000000" Dst="2" />
+<file name="composer.json" server="pavimpresostalavera.es" local="131738212489244243" remote="131758023600000000" Dst="2" />
+<file name="extension.json" server="pavimpresostalavera.es" local="131738212487854462" remote="131758023600000000" Dst="2" />
+<file name="EmailBlacklist.php" server="pavimpresostalavera.es" local="131738212497945901" remote="131758023600000000" Dst="2" />
+<file name="COPYING" server="pavimpresostalavera.es" local="131738212499606216" remote="131758023600000000" Dst="2" />
+<file name="Gruntfile.js" server="pavimpresostalavera.es" local="131738212498155842" remote="131758023600000000" Dst="2" />
+<file name="phpcs.xml" server="pavimpresostalavera.es" local="131738212487684545" remote="131758023600000000" Dst="2" />
+<file name="README" server="pavimpresostalavera.es" local="131738212496050242" remote="131758023600000000" Dst="2" />
+<file name="SpamBlacklist.php" server="pavimpresostalavera.es" local="131738212496050242" remote="131758023600000000" Dst="2" />
+<file name="SpamBlacklistHooks.php" server="pavimpresostalavera.es" local="131738212494507417" remote="131758023600000000" Dst="2" />
+<file name="SpamBlacklistLogFormatter.php" server="pavimpresostalavera.es" local="131738212494507417" remote="131758023600000000" Dst="2" />
+<file name="SpamBlacklistPreAuthenticationProvider.php" server="pavimpresostalavera.es" local="131738212492295997" remote="131758023600000000" Dst="2" />
+<file name="SpamBlacklist_body.php" server="pavimpresostalavera.es" local="131738212492015926" remote="131758023600000000" Dst="2" />
+<file name="SpamRegexBatch.php" server="pavimpresostalavera.es" local="131738212490148592" remote="131758023600000000" Dst="2" />
+</dwsync>

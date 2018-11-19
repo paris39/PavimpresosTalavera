@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BufferingStatsdDataFactory.php" server="pavimpresostalavera.es" local="131738214674239084" remote="131758025400000000" Dst="2" />
+<file name="IBufferingStatsdDataFactory.php" server="pavimpresostalavera.es" local="131738214672565749" remote="131758025400000000" Dst="2" />
+<file name="SamplingStatsdClient.php" server="pavimpresostalavera.es" local="131738214671110410" remote="131758025400000000" Dst="2" />
+<file name="StatsdAwareInterface.php" server="pavimpresostalavera.es" local="131738214670920440" remote="131758025400000000" Dst="2" />
+<file name="NullStatsdDataFactory.php" server="pavimpresostalavera.es" local="131738214672425981" remote="131758025400000000" Dst="2" />
+</dwsync>

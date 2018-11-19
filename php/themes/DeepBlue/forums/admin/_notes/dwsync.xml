@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="admin_message_body.tpl" server="pavimpresostalavera.es" local="131738181878507816" remote="131758019400000000" Dst="2" />
+<file name="auth_select_body.tpl" server="pavimpresostalavera.es" local="131738181877347991" remote="131758019400000000" Dst="2" />
+<file name="auth_forum_body.tpl" server="pavimpresostalavera.es" local="131738181877527962" remote="131758019400000000" Dst="2" />
+<file name="auth_ug_body.tpl" server="pavimpresostalavera.es" local="131738181876348298" remote="131758019400000000" Dst="2" />
+<file name="board_config_body.tpl" server="pavimpresostalavera.es" local="131738181875988214" remote="131758019400000000" Dst="2" />
+<file name="category_edit_body.tpl" server="pavimpresostalavera.es" local="131738181874516694" remote="131758019400000000" Dst="2" />
+<file name="db_utils_backup_body.tpl" server="pavimpresostalavera.es" local="131738181873994208" remote="131758019400000000" Dst="2" />
+<file name="db_utils_restore_body.tpl" server="pavimpresostalavera.es" local="131738181872993237" remote="131758019400000000" Dst="2" />
+<file name="disallow_body.tpl" server="pavimpresostalavera.es" local="131738181872543321" remote="131758019400000000" Dst="2" />
+<file name="forum_admin_body.tpl" server="pavimpresostalavera.es" local="131738181870709055" remote="131758019400000000" Dst="2" />
+<file name="forum_delete_body.tpl" server="pavimpresostalavera.es" local="131738181870409119" remote="131758019400000000" Dst="2" />
+<file name="forum_edit_body.tpl" server="pavimpresostalavera.es" local="131738181869368458" remote="131758019400000000" Dst="2" />
+<file name="forum_prune_body.tpl" server="pavimpresostalavera.es" local="131738181869058345" remote="131758019400000000" Dst="2" />
+<file name="forum_prune_select_body.tpl" server="pavimpresostalavera.es" local="131738181866771291" remote="131758019400000000" Dst="2" />
+<file name="group_edit_body.tpl" server="pavimpresostalavera.es" local="131738181863282786" remote="131758019400000000" Dst="2" />
+<file name="forum_prune_result_body.tpl" server="pavimpresostalavera.es" local="131738181866941239" remote="131758019400000000" Dst="2" />
+<file name="index_body.tpl" server="pavimpresostalavera.es" local="131738181860635887" remote="131758019400000000" Dst="2" />
+<file name="group_select_body.tpl" server="pavimpresostalavera.es" local="131738181862902893" remote="131758019400000000" Dst="2" />
+<file name="index.htm" server="pavimpresostalavera.es" local="131738181861155741" remote="131758019400000000" Dst="2" />
+<file name="index_frameset.tpl" server="pavimpresostalavera.es" local="131738181859725962" remote="131758019400000000" Dst="2" />
+<file name="index_navigate.tpl" server="pavimpresostalavera.es" local="131738181859336036" remote="131758019400000000" Dst="2" />
+<file name="page_footer.tpl" server="pavimpresostalavera.es" local="131738181858246208" remote="131758019400000000" Dst="2" />
+<file name="page_header.tpl" server="pavimpresostalavera.es" local="131738181857665496" remote="131758019400000000" Dst="2" />
+<file name="ranks_edit_body.tpl" server="pavimpresostalavera.es" local="131738181851267890" remote="131758019400000000" Dst="2" />
+<file name="ranks_list_body.tpl" server="pavimpresostalavera.es" local="131738181849309429" remote="131758019400000000" Dst="2" />
+<file name="smile_edit_body.tpl" server="pavimpresostalavera.es" local="131738181856505606" remote="131758019400000000" Dst="2" />
+<file name="smile_import_body.tpl" server="pavimpresostalavera.es" local="131738181847185747" remote="131758019400000000" Dst="2" />
+<file name="smile_list_body.tpl" server="pavimpresostalavera.es" local="131738181847165626" remote="131758019400000000" Dst="2" />
+<file name="styles_addnew_body.tpl" server="pavimpresostalavera.es" local="131738181845381583" remote="131758019400000000" Dst="2" />
+<file name="styles_edit_body.tpl" server="pavimpresostalavera.es" local="131738181845051648" remote="131758019400000000" Dst="2" />
+<file name="styles_exporter.tpl" server="pavimpresostalavera.es" local="131738181843540395" remote="131758019400000000" Dst="2" />
+<file name="styles_list_body.tpl" server="pavimpresostalavera.es" local="131738181841883493" remote="131758019400000000" Dst="2" />
+<file name="user_avatar_gallery.tpl" server="pavimpresostalavera.es" local="131738181843930282" remote="131758019400000000" Dst="2" />
+<file name="user_ban_body.tpl" server="pavimpresostalavera.es" local="131738181838073829" remote="131758019400000000" Dst="2" />
+<file name="user_edit_body.tpl" server="pavimpresostalavera.es" local="131738181836290704" remote="131758019400000000" Dst="2" />
+<file name="user_email_body.tpl" server="pavimpresostalavera.es" local="131738181834498940" remote="131758019400000000" Dst="2" />
+<file name="user_select_body.tpl" server="pavimpresostalavera.es" local="131738181832187856" remote="131758019400000000" Dst="2" />
+<file name="words_edit_body.tpl" server="pavimpresostalavera.es" local="131738181830848076" remote="131758019400000000" Dst="2" />
+<file name="words_list_body.tpl" server="pavimpresostalavera.es" local="131738181837673914" remote="131758019400000000" Dst="2" />
+</dwsync>

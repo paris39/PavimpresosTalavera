@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ActivityUpdateJob.php" server="pavimpresostalavera.es" local="131738214479013408" remote="131758025400000000" Dst="2" />
+<file name="CdnPurgeJob.php" server="pavimpresostalavera.es" local="131738214477325550" remote="131758025400000000" Dst="2" />
+<file name="AssembleUploadChunksJob.php" server="pavimpresostalavera.es" local="131738214478823433" remote="131758025400000000" Dst="2" />
+<file name="CategoryMembershipChangeJob.php" server="pavimpresostalavera.es" local="131738214477596772" remote="131758025400000000" Dst="2" />
+<file name="DeleteLinksJob.php" server="pavimpresostalavera.es" local="131738214476375695" remote="131758025400000000" Dst="2" />
+<file name="DoubleRedirectJob.php" server="pavimpresostalavera.es" local="131738214475843954" remote="131758025400000000" Dst="2" />
+<file name="DuplicateJob.php" server="pavimpresostalavera.es" local="131738214474620750" remote="131758025400000000" Dst="2" />
+<file name="EmaillingJob.php" server="pavimpresostalavera.es" local="131738214473969519" remote="131758025400000000" Dst="2" />
+<file name="EnotifNotifyJob.php" server="pavimpresostalavera.es" local="131738214472929534" remote="131758025400000000" Dst="2" />
+<file name="EnqueueJob.php" server="pavimpresostalavera.es" local="131738214472379625" remote="131758025400000000" Dst="2" />
+<file name="HTMLCacheUpdateJob.php" server="pavimpresostalavera.es" local="131738214471499780" remote="131758025400000000" Dst="2" />
+<file name="NullJob.php" server="pavimpresostalavera.es" local="131738214471019865" remote="131758025400000000" Dst="2" />
+<file name="PublishStashedFileJob.php" server="pavimpresostalavera.es" local="131738214470106513" remote="131758025400000000" Dst="2" />
+<file name="RecentChangesUpdateJob.php" server="pavimpresostalavera.es" local="131738214469492956" remote="131758025400000000" Dst="2" />
+<file name="RefreshLinksJob.php" server="pavimpresostalavera.es" local="131738214468221319" remote="131758025400000000" Dst="2" />
+<file name="ThumbnailRenderJob.php" server="pavimpresostalavera.es" local="131738214467780679" remote="131758025400000000" Dst="2" />
+</dwsync>

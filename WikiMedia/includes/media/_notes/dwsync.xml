@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Bitmap.php" server="pavimpresostalavera.es" local="131738214756110173" remote="131758025400000000" Dst="2" />
+<file name="BitmapMetadataHandler.php" server="pavimpresostalavera.es" local="131738214754587093" remote="131758025400000000" Dst="2" />
+<file name="Bitmap_ClientOnly.php" server="pavimpresostalavera.es" local="131738214754114808" remote="131758025400000000" Dst="2" />
+<file name="BMP.php" server="pavimpresostalavera.es" local="131738214755880265" remote="131758025400000000" Dst="2" />
+<file name="DjVu.php" server="pavimpresostalavera.es" local="131738214753006697" remote="131758025400000000" Dst="2" />
+<file name="DjVuImage.php" server="pavimpresostalavera.es" local="131738214752616788" remote="131758025400000000" Dst="2" />
+<file name="ExifBitmap.php" server="pavimpresostalavera.es" local="131738214748803184" remote="131758025400000000" Dst="2" />
+<file name="Exif.php" server="pavimpresostalavera.es" local="131738214751023569" remote="131758025400000000" Dst="2" />
+<file name="FormatMetadata.php" server="pavimpresostalavera.es" local="131738214747027456" remote="131758025400000000" Dst="2" />
+<file name="GIF.php" server="pavimpresostalavera.es" local="131738214744249146" remote="131758025400000000" Dst="2" />
+<file name="GIFMetadataExtractor.php" server="pavimpresostalavera.es" local="131738214742175729" remote="131758025400000000" Dst="2" />
+<file name="ImageHandler.php" server="pavimpresostalavera.es" local="131738214737948328" remote="131758025400000000" Dst="2" />
+<file name="Jpeg.php" server="pavimpresostalavera.es" local="131738214736330121" remote="131758025400000000" Dst="2" />
+<file name="JpegMetadataExtractor.php" server="pavimpresostalavera.es" local="131738214733569390" remote="131758025400000000" Dst="2" />
+<file name="IPTC.php" server="pavimpresostalavera.es" local="131738214740866538" remote="131758025400000000" Dst="2" />
+<file name="MediaHandler.php" server="pavimpresostalavera.es" local="131738214732062833" remote="131758025400000000" Dst="2" />
+<file name="MediaHandlerFactory.php" server="pavimpresostalavera.es" local="131738214729332554" remote="131758025400000000" Dst="2" />
+<file name="MediaTransformInvalidParametersException.php" server="pavimpresostalavera.es" local="131738214727664475" remote="131758025400000000" Dst="2" />
+<file name="MediaTransformOutput.php" server="pavimpresostalavera.es" local="131738214726269204" remote="131758025400000000" Dst="2" />
+<file name="PNG.php" server="pavimpresostalavera.es" local="131738214724338970" remote="131758025400000000" Dst="2" />
+<file name="PNGMetadataExtractor.php" server="pavimpresostalavera.es" local="131738214722850290" remote="131758025400000000" Dst="2" />
+<file name="SVG.php" server="pavimpresostalavera.es" local="131738214751565133" remote="131758025400000000" Dst="2" />
+<file name="SVGMetadataExtractor.php" server="pavimpresostalavera.es" local="131738214721015506" remote="131758025400000000" Dst="2" />
+<file name="Tiff.php" server="pavimpresostalavera.es" local="131738214719883672" remote="131758025400000000" Dst="2" />
+<file name="TransformationalImageHandler.php" server="pavimpresostalavera.es" local="131738214719703696" remote="131758025400000000" Dst="2" />
+<file name="WebP.php" server="pavimpresostalavera.es" local="131738214717851958" remote="131758025400000000" Dst="2" />
+<file name="tinyrgb.icc" server="pavimpresostalavera.es" local="131738214715911546" remote="131758025400000000" Dst="2" />
+<file name="XCF.php" server="pavimpresostalavera.es" local="131738214717111267" remote="131758025400000000" Dst="2" />
+</dwsync>

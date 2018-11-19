@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CannotReplaceActiveServiceException.php" server="pavimpresostalavera.es" local="131738214923947249" remote="131758025400000000" Dst="2" />
+<file name="DestructibleService.php" server="pavimpresostalavera.es" local="131738214922031145" remote="131758025400000000" Dst="2" />
+<file name="NoSuchServiceException.php" server="pavimpresostalavera.es" local="131738214922031145" remote="131758025400000000" Dst="2" />
+<file name="ContainerDisabledException.php" server="pavimpresostalavera.es" local="131738214923837254" remote="131758025400000000" Dst="2" />
+<file name="SalvageableService.php" server="pavimpresostalavera.es" local="131738214920367844" remote="131758025400000000" Dst="2" />
+<file name="ServiceAlreadyDefinedException.php" server="pavimpresostalavera.es" local="131738214920217816" remote="131758025400000000" Dst="2" />
+<file name="ServiceContainer.php" server="pavimpresostalavera.es" local="131738214918411127" remote="131758025400000000" Dst="2" />
+<file name="ServiceDisabledException.php" server="pavimpresostalavera.es" local="131738214918090972" remote="131758025400000000" Dst="2" />
+</dwsync>

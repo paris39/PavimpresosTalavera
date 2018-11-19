@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BlockLogFormatter.php" server="pavimpresostalavera.es" local="131738214710785607" remote="131758025400000000" Dst="2" />
+<file name="ContentModelLogFormatter.php" server="pavimpresostalavera.es" local="131738214709048265" remote="131758025400000000" Dst="2" />
+<file name="DeleteLogFormatter.php" server="pavimpresostalavera.es" local="131738214707696098" remote="131758025400000000" Dst="2" />
+<file name="ImportLogFormatter.php" server="pavimpresostalavera.es" local="131738214709511534" remote="131758025400000000" Dst="2" />
+<file name="LogEntry.php" server="pavimpresostalavera.es" local="131738214705821565" remote="131758025400000000" Dst="2" />
+<file name="LogEventsList.php" server="pavimpresostalavera.es" local="131738214703983077" remote="131758025400000000" Dst="2" />
+<file name="LogFormatter.php" server="pavimpresostalavera.es" local="131738214703802926" remote="131758025400000000" Dst="2" />
+<file name="LogPage.php" server="pavimpresostalavera.es" local="131738214702087611" remote="131758025400000000" Dst="2" />
+<file name="LogPager.php" server="pavimpresostalavera.es" local="131738214702067610" remote="131758025400000000" Dst="2" />
+<file name="MergeLogFormatter.php" server="pavimpresostalavera.es" local="131738214700404188" remote="131758025400000000" Dst="2" />
+<file name="MoveLogFormatter.php" server="pavimpresostalavera.es" local="131738214700434128" remote="131758025400000000" Dst="2" />
+<file name="NewUsersLogFormatter.php" server="pavimpresostalavera.es" local="131738214698872947" remote="131758025400000000" Dst="2" />
+<file name="PageLangLogFormatter.php" server="pavimpresostalavera.es" local="131738214698842973" remote="131758025400000000" Dst="2" />
+<file name="PatrolLog.php" server="pavimpresostalavera.es" local="131738214697369816" remote="131758025400000000" Dst="2" />
+<file name="PatrolLogFormatter.php" server="pavimpresostalavera.es" local="131738214695645084" remote="131758025400000000" Dst="2" />
+<file name="ProtectLogFormatter.php" server="pavimpresostalavera.es" local="131738214697359822" remote="131758025400000000" Dst="2" />
+<file name="RightsLogFormatter.php" server="pavimpresostalavera.es" local="131738214694111262" remote="131758025400000000" Dst="2" />
+<file name="TagLogFormatter.php" server="pavimpresostalavera.es" local="131738214693458591" remote="131758025400000000" Dst="2" />
+<file name="UploadLogFormatter.php" server="pavimpresostalavera.es" local="131738214692003667" remote="131758025400000000" Dst="2" />
+</dwsync>

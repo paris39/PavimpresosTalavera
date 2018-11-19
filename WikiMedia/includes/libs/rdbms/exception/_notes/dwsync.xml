@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="DBAccessError.php" server="pavimpresostalavera.es" local="131738214642390482" remote="131758025400000000" Dst="2" />
+<file name="DBConnectionError.php" server="pavimpresostalavera.es" local="131738214642128997" remote="131758025400000000" Dst="2" />
+<file name="DBError.php" server="pavimpresostalavera.es" local="131738214640554340" remote="131758025400000000" Dst="2" />
+<file name="DBExpectedError.php" server="pavimpresostalavera.es" local="131738214640354312" remote="131758025400000000" Dst="2" />
+<file name="DBQueryError.php" server="pavimpresostalavera.es" local="131738214638753449" remote="131758025400000000" Dst="2" />
+<file name="DBReplicationWaitError.php" server="pavimpresostalavera.es" local="131738214636837140" remote="131758025400000000" Dst="2" />
+<file name="DBReadOnlyError.php" server="pavimpresostalavera.es" local="131738214638633515" remote="131758025400000000" Dst="2" />
+<file name="DBTransactionError.php" server="pavimpresostalavera.es" local="131738214636647148" remote="131758025400000000" Dst="2" />
+<file name="DBTransactionSizeError.php" server="pavimpresostalavera.es" local="131738214635195954" remote="131758025400000000" Dst="2" />
+<file name="DBUnexpectedError.php" server="pavimpresostalavera.es" local="131738214634636132" remote="131758025400000000" Dst="2" />
+</dwsync>

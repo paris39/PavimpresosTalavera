@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CachingSiteStore.php" server="pavimpresostalavera.es" local="131738214957721765" remote="131758025400000000" Dst="2" />
+<file name="DBSiteStore.php" server="pavimpresostalavera.es" local="131738214956717231" remote="131758025400000000" Dst="2" />
+<file name="FileBasedSiteLookup.php" server="pavimpresostalavera.es" local="131738214956207256" remote="131758025400000000" Dst="2" />
+<file name="HashSiteStore.php" server="pavimpresostalavera.es" local="131738214954960513" remote="131758025400000000" Dst="2" />
+<file name="MediaWikiSite.php" server="pavimpresostalavera.es" local="131738214953505789" remote="131758025400000000" Dst="2" />
+<file name="Site.php" server="pavimpresostalavera.es" local="131738214953165851" remote="131758025400000000" Dst="2" />
+<file name="MediaWikiPageNameNormalizer.php" server="pavimpresostalavera.es" local="131738214954480110" remote="131758025400000000" Dst="2" />
+<file name="SiteExporter.php" server="pavimpresostalavera.es" local="131738214952383043" remote="131758025400000000" Dst="2" />
+<file name="SiteList.php" server="pavimpresostalavera.es" local="131738214950790461" remote="131758025400000000" Dst="2" />
+<file name="SiteLookup.php" server="pavimpresostalavera.es" local="131738214949446754" remote="131758025400000000" Dst="2" />
+<file name="SitesCacheFileBuilder.php" server="pavimpresostalavera.es" local="131738214946867981" remote="131758025400000000" Dst="2" />
+<file name="SiteSQLStore.php" server="pavimpresostalavera.es" local="131738214948403350" remote="131758025400000000" Dst="2" />
+<file name="SiteStore.php" server="pavimpresostalavera.es" local="131738214947678588" remote="131758025400000000" Dst="2" />
+<file name="SiteImporter.php" server="pavimpresostalavera.es" local="131738214951470349" remote="131758025400000000" Dst="2" />
+</dwsync>

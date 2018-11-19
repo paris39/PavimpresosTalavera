@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildpath>
+	<buildpathentry kind="src" path="img/icons/tabs"/>
+	<buildpathentry kind="src" path="joomla"/>
+	<buildpathentry kind="src" path="new/mail"/>
+	<buildpathentry kind="src" path="php"/>
+	<buildpathentry kind="src" path="test/php"/>
+	<buildpathentry kind="src" path="WebCalendar"/>
+	<buildpathentry kind="src" path="webmaster/tienda"/>
+	<buildpathentry kind="src" path="WikiMedia"/>
+	<buildpathentry kind="src" path="wordpress"/>
+	<buildpathentry kind="con" path="org.eclipse.php.core.LANGUAGE"/>
+</buildpath>

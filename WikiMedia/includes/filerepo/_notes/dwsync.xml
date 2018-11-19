@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="FileBackendDBRepoWrapper.php" server="pavimpresostalavera.es" local="131738214104562443" remote="131758024800000000" Dst="2" />
+<file name="FileRepo.php" server="pavimpresostalavera.es" local="131738214103262836" remote="131758024800000000" Dst="2" />
+<file name="FileRepoStatus.php" server="pavimpresostalavera.es" local="131738214100016198" remote="131758024800000000" Dst="2" />
+<file name="ForeignAPIRepo.php" server="pavimpresostalavera.es" local="131738214102261319" remote="131758024800000000" Dst="2" />
+<file name="ForeignDBRepo.php" server="pavimpresostalavera.es" local="131738214098332541" remote="131758024800000000" Dst="2" />
+<file name="ForeignDBViaLBRepo.php" server="pavimpresostalavera.es" local="131738214098022530" remote="131758024800000000" Dst="2" />
+<file name="LocalRepo.php" server="pavimpresostalavera.es" local="131738214096762626" remote="131758024800000000" Dst="2" />
+<file name="NullRepo.php" server="pavimpresostalavera.es" local="131738214096162776" remote="131758024800000000" Dst="2" />
+<file name="RepoGroup.php" server="pavimpresostalavera.es" local="131738214094576082" remote="131758024800000000" Dst="2" />
+<file name="README" server="pavimpresostalavera.es" local="131738214094886071" remote="131758024800000000" Dst="2" />
+<file name="TempFileRepo.php" server="pavimpresostalavera.es" local="131738214093020318" remote="131758024800000000" Dst="2" />
+</dwsync>

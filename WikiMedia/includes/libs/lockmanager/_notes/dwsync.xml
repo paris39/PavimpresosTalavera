@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="DBLockManager.php" server="pavimpresostalavera.es" local="131738214572514458" remote="131758025400000000" Dst="2" />
+<file name="FSLockManager.php" server="pavimpresostalavera.es" local="131738214570692485" remote="131758025400000000" Dst="2" />
+<file name="LockManager.php" server="pavimpresostalavera.es" local="131738214569282053" remote="131758025400000000" Dst="2" />
+<file name="MemcLockManager.php" server="pavimpresostalavera.es" local="131738214567888000" remote="131758025400000000" Dst="2" />
+<file name="NullLockManager.php" server="pavimpresostalavera.es" local="131738214566359403" remote="131758025400000000" Dst="2" />
+<file name="PostgreSqlLockManager.php" server="pavimpresostalavera.es" local="131738214564918870" remote="131758025400000000" Dst="2" />
+<file name="RedisLockManager.php" server="pavimpresostalavera.es" local="131738214561655726" remote="131758025400000000" Dst="2" />
+<file name="ScopedLock.php" server="pavimpresostalavera.es" local="131738214560056970" remote="131758025400000000" Dst="2" />
+<file name="QuorumLockManager.php" server="pavimpresostalavera.es" local="131738214562897150" remote="131758025400000000" Dst="2" />
+</dwsync>

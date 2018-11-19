@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BacklinkCache.php" server="pavimpresostalavera.es" local="131738213911223512" remote="131758024800000000" Dst="2" />
+<file name="CacheDependency.php" server="pavimpresostalavera.es" local="131738213909579340" remote="131758024800000000" Dst="2" />
+<file name="CacheHelper.php" server="pavimpresostalavera.es" local="131738213908124561" remote="131758024800000000" Dst="2" />
+<file name="FileCacheBase.php" server="pavimpresostalavera.es" local="131738213906832337" remote="131758024800000000" Dst="2" />
+<file name="GenderCache.php" server="pavimpresostalavera.es" local="131738213905080353" remote="131758024800000000" Dst="2" />
+<file name="HTMLFileCache.php" server="pavimpresostalavera.es" local="131738213903791923" remote="131758024800000000" Dst="2" />
+<file name="LinkBatch.php" server="pavimpresostalavera.es" local="131738213902464090" remote="131758024800000000" Dst="2" />
+<file name="LinkCache.php" server="pavimpresostalavera.es" local="131738213901038370" remote="131758024800000000" Dst="2" />
+<file name="MessageBlobStore.php" server="pavimpresostalavera.es" local="131738213899179035" remote="131758024800000000" Dst="2" />
+<file name="MessageCache.php" server="pavimpresostalavera.es" local="131738213897479244" remote="131758024800000000" Dst="2" />
+<file name="ResourceFileCache.php" server="pavimpresostalavera.es" local="131738213895405165" remote="131758024800000000" Dst="2" />
+<file name="UserCache.php" server="pavimpresostalavera.es" local="131738213893537181" remote="131758024800000000" Dst="2" />
+</dwsync>

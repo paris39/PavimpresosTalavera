@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BadRequestError.php" server="pavimpresostalavera.es" local="131738214062175089" remote="131758024800000000" Dst="2" />
+<file name="BadTitleError.php" server="pavimpresostalavera.es" local="131738214060750775" remote="131758024800000000" Dst="2" />
+<file name="ErrorPageError.php" server="pavimpresostalavera.es" local="131738214060310788" remote="131758024800000000" Dst="2" />
+<file name="FatalError.php" server="pavimpresostalavera.es" local="131738214059074372" remote="131758024800000000" Dst="2" />
+<file name="HttpError.php" server="pavimpresostalavera.es" local="131738214058019881" remote="131758024800000000" Dst="2" />
+<file name="LocalizedException.php" server="pavimpresostalavera.es" local="131738214056990479" remote="131758024800000000" Dst="2" />
+<file name="MWContentSerializationException.php" server="pavimpresostalavera.es" local="131738214056202616" remote="131758024800000000" Dst="2" />
+<file name="MWException.php" server="pavimpresostalavera.es" local="131738214055003967" remote="131758024800000000" Dst="2" />
+<file name="MWExceptionRenderer.php" server="pavimpresostalavera.es" local="131738214052827114" remote="131758024800000000" Dst="2" />
+<file name="MWUnknownContentModelException.php" server="pavimpresostalavera.es" local="131738214051379368" remote="131758024800000000" Dst="2" />
+<file name="MWExceptionHandler.php" server="pavimpresostalavera.es" local="131738214054539767" remote="131758024800000000" Dst="2" />
+<file name="PermissionsError.php" server="pavimpresostalavera.es" local="131738214050457774" remote="131758024800000000" Dst="2" />
+<file name="ReadOnlyError.php" server="pavimpresostalavera.es" local="131738214048786695" remote="131758024800000000" Dst="2" />
+<file name="ProcOpenError.php" server="pavimpresostalavera.es" local="131738214049697321" remote="131758024800000000" Dst="2" />
+<file name="ShellDisabledError.php" server="pavimpresostalavera.es" local="131738214047983134" remote="131758024800000000" Dst="2" />
+<file name="ThrottledError.php" server="pavimpresostalavera.es" local="131738214047131773" remote="131758024800000000" Dst="2" />
+<file name="UserBlockedError.php" server="pavimpresostalavera.es" local="131738214046264892" remote="131758024800000000" Dst="2" />
+<file name="UserNotLoggedIn.php" server="pavimpresostalavera.es" local="131738214044153024" remote="131758024800000000" Dst="2" />
+</dwsync>

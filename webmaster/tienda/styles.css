@@ -1,0 +1,1032 @@
+﻿@charset "utf-8";
+
+body {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	width: auto;
+	height: auto;
+}
+
+.contenedor {
+	background-color: pink;
+	border-color: mediumVioletRed;
+	border-style: solid;
+	border-width: 1px;
+	border-top-width: 0px;
+	/*
+	border-left-color: mediumVioletRed;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-color: mediumVioletRed;
+	border-right-style: solid;
+	border-right-width: 1px;
+	*/
+	font-family: arial;
+	height: 100%;
+	margin: auto;
+	margin-top: 0;
+	padding: 0;
+	padding-bottom: 10px;
+	text-align: center;
+	width: 1000px;
+}
+.contenedor tr {
+	margin: auto;
+	text-align: center;
+	alignment-adjust: central;
+}
+.contenedor td {
+	alignment-adjust: central;
+	margin: auto;
+	vertical-align: middle;
+}
+.contenedor a {
+	color: black;
+	font-weight: bold;
+	text-decoration: none;
+}
+.contenedor a:visited {
+	color: black;
+	text-decoration: none;
+}
+.contenedor a:hover {
+	color: navy;
+	text-decoration: underline;
+}
+
+.contenedorProduct {
+	background-color: pink;
+	border-color: mediumVioletRed;
+	border-style: solid;
+	border-width: 1px;
+	border-top-width: 0px;
+	/*
+	border-left-color: mediumVioletRed;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-color: mediumVioletRed;
+	border-right-style: solid;
+	border-right-width: 1px;
+	*/
+	font-family: arial;
+	margin-top: 0;
+	padding: 0;
+	/*padding-bottom: 10px;*/
+	/*text-align: center;*/
+	height: 100%;
+	text-align: center;
+	width: 640px;
+}
+.contenedorProduct td {
+	vertical-align: middle;
+}
+.contenedorProduct a {
+	color: black;
+	font-weight: bold;
+	text-decoration: none;
+}
+.contenedorProduct a:visited {
+	color: black;
+	text-decoration: none;
+}
+.contenedorProduct a:hover {
+	color: navy;
+	text-decoration: underline;
+}
+			 
+.saludo {
+	background-color: lightPink;
+	color: black;
+	border-width: 1px;
+	border-color: hotPink;
+	border-style: inset;
+	cursor: default;
+	font-size: 30pt;
+	height: 75px;
+	text-align: center;
+	vertical-align: middle;
+	width: 600px;
+}
+
+.cabecera {
+	background-color: lightPink;
+	color: black;
+	border-width: 1px;
+	border-color: hotPink;
+	border-style: inset;
+	text-align: center;
+	font-size: 30pt;
+	width: 600px;
+	height: 75px;
+}
+
+.cabecera2 {
+	background-color: lightPink;
+	color: black;
+	border-width: 1px;
+	border-color: hotpink;
+	border-style: inset;
+	cursor: default;
+	font-size: 30pt;
+	height: 75px;
+	text-align: center;
+	width: 990px;
+}
+.cabecera2 td {
+	vertical-align: middle;	
+}
+
+.cabecera3 {
+	background-color: lavender;
+	border-color: white;
+	border-radius: 30px;
+	border-style: inset;
+	border-width: 1px;
+	color: black;
+	cursor: default;
+	font-size: 12pt;
+	font-weight: bold;
+	height: 35px;
+	text-align: center;
+	width: 990px;
+}
+.cabecera3 td {
+	vertical-align: middle;
+}
+
+.cabecera3Product {
+	background-color: lavender;
+	border-color: white;
+	border-radius: 30px;
+	border-style: inset;
+	border-width: 1px;
+	color: black;
+	cursor: default;
+	font-size: 12pt;
+	font-weight: bold;
+	height: 35px;
+	margin: auto;
+	text-align: center;
+	width: 640px;
+}
+
+
+.menu_user {
+	background-color: lavender;
+	color: black;
+	border-width: 1px;
+	border-color: white;
+	border-style: inset;
+	text-align: center;
+	font-size: 12pt;
+	width: 990px;
+	height: 35px;
+	border-radius: 30px;
+}
+/*.menu_user td {width: 20%;
+			  }*/
+.menu_user a {
+	color: black;
+	font-weight: bold;
+	text-decoration: none;
+}
+.menu_user a:hover {
+	color: navy;
+	text-decoration: underline;
+}
+		  
+.menu_admin {
+	border-color: hotPink;
+	border-radius: 3px;
+	border-style: solid;
+	border-width: 1px;
+	color: black;
+	font-weight: bold;
+	margin: auto;
+	text-align: center;
+	width: 400px;
+}
+.menu_admin tr td {
+	text-align: center;
+	border-width: 1px;
+	background-color: lightPink;
+	border-radius: 3px;
+}
+.menu_admin td:hover {
+	color: white;
+	background-color: hotPink;
+}
+.menu_admin a {
+	text-decoration: none;
+	color: black;
+}
+.menu_admin a:hover {
+	text-decoration: none;
+	color: white;
+}
+
+/* BOTONES */
+.boton {
+	background-color: pink;
+	border-color: hotPink;
+	border-radius: 3px;
+	border-style: solid;
+	border-width: 1px;
+	color: black;
+	font-family: arial;
+	font-size: 10pt;
+	font-weight: bold;
+	margin-bottom: 2pt;
+	margin-top: 2pt;
+	height: auto;
+	width: auto;
+}
+.boton:hover {
+	background-color: white;
+	color: navy;
+	cursor: pointer;
+}
+.botonDisabled {
+	background-color: LightGrey;
+	border-color: hotPink;
+	border-radius: 3px;
+	border-style: solid;
+	border-width: 1px;
+	color: black;
+	font-family: arial;
+	font-size: 10pt;
+	font-weight: bold;
+	margin-bottom: 2pt;
+	margin-top: 2pt;
+	height: auto;
+	width: auto;
+}
+
+.combo {
+	border-color: hotPink;
+	border-radius: 2px;
+	border-style: solid;
+	border-width: 1px;
+	width: auto;
+}
+
+.texto {
+	border-color: hotPink;
+	border-radius: 2px;
+	border-style: solid;
+	border-width: 1px;
+	padding-left: 2px;
+	padding-right: 2px;
+}
+#discontinuedDate {
+	margin-left: 2px; /* Al colocar el width se echa un poco hacia la izquierda y se desalinea */
+	width: 65px;
+}
+
+.registro {
+	background-color: lavender;
+	border-color: hotPink;
+	border-radius: 10px;
+	border-style: solid;
+	border-width: 1px;
+	margin: auto;
+	width: 600px;
+}
+.registro td {
+	width: 50%;
+}
+.registro .boton {
+	background-color: pink;
+	border-color: hotPink;
+	border-radius: 3px;
+	border-style: solid;
+	border-width: 1px;
+	color: black;
+	font-family: arial;
+	font-size: 10pt;
+	font-weight: bold;
+	margin-bottom: 2pt;
+	margin-top: 2pt;
+	height: auto;
+	width: auto;
+}
+.registro .boton:hover {
+	background-color: white;
+	color: navy;
+	cursor: pointer;
+}
+.registro #obligatorio {
+	color: red;
+	font-weight: bold;
+}
+
+
+/*** PÁGINA LOGIN ***/
+.login {
+	width: 300px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: hotPink;
+	background-color: lavender;
+	border-radius: 5px;
+	margin: auto;
+}
+.login td {
+	border-style: none;
+	width: 50%;
+}
+.login .boton {
+	background-color: pink;
+	border-color: hotPink;
+	border-radius: 3px;
+	border-style: solid;
+	border-width: 1px;
+	color: black;
+	font-family: arial;
+	font-size: 10pt;
+	font-weight: bold;
+	margin-bottom: 2pt;
+	margin-top: 2pt;
+	height: auto;
+	width: 120px;
+}
+.login .boton:hover {
+	background-color: white;
+	color: navy;
+	cursor: pointer;
+}
+.login #userText, .login #passText {
+	width: 90px;	
+}
+
+
+/* *** TABLA PRODUCTOS DE modifyProduct *** */		 
+.productos {
+	background-color: lavender;
+	border-color: hotPink;
+	border-radius: 10px;
+	border-style: solid;
+	border-width: 1px;
+	color: black;
+	font-weight: bold;
+	margin: auto;
+	text-align: center;
+	width: 960px;
+}
+.productos .modifyImage {
+	text-align: center;
+}
+.productos .modifyImage tr {
+	text-align: center;
+	width: 960px;
+}
+.productos .modifyImage td {
+	text-align: center; 
+	width: 960px;
+}
+.productos .modifyImage img {
+	border-width: 1px;
+	border-color: hotPink;
+	border-style: solid;
+}
+.productos #numerico {
+	text-align: right;	
+}/*
+.productos .boton {
+	background-color: pink;
+	border-color: hotPink;
+	border-radius: 3px;
+	border-style: solid;
+	border-width: 1px;
+	color: black;
+	font-family: arial;
+	font-size: 10pt;
+	font-weight: bold;
+	margin-bottom: 2pt;
+	margin-top: 2pt;
+	height: auto;
+	width: auto;
+}
+.productos .boton:hover {
+	background-color: white;
+	color: navy;
+	cursor: pointer;
+} */
+.productos .fichero {
+	border-color: hotPink;
+	border-radius: 2px;
+	border-style: solid;
+	border-width: 1px;
+	width: auto;
+}
+.productos .fichero:hover {
+	background-color: white;
+	color: navy;
+	cursor: pointer;
+}
+
+/* ***  TABLA PRODUCTOS DE allDataProducts *** */
+.productos2 {
+	background-color: lavender;
+	border-collapse: collapse;
+	border-color: mediumVioletRed;
+	/*border-radius: 15px;*/
+	border-style: solid;
+	border-width: 1px;
+	color: black;
+	font-weight: bold;
+	margin: auto;
+	width: 960px;
+}
+.productos2 .firstLine {
+	background-color: white;
+	border-color: mediumVioletRed;
+	border-style: solid;
+	border-width: 1px;
+	color: black;
+	font-size: 12pt;
+	text-align: center;
+	/*text-decoration: underline;*/
+}
+.productos2 .lineaProducto {
+	border-color: mediumVioletRed;
+	border-style: solid;
+	border-width: 1px;
+	margin: 1px;
+}
+.productos2 .lineaProducto td {
+	/*border-color: mediumVioletRed;
+	border-style: solid;
+	border-width: 1px;
+	border-right-width: 0px; 
+	border-bottom-color: pink;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;*/
+	text-align: center;
+}
+.productos2 .lineaProducto a {
+	cursor: zoom-in; 	
+}
+.productos2 a {
+	text-decoration: none;
+}
+.productos2 img {
+	border: 0px;
+}
+.productos2 input {
+	background-color: pink;
+	border-color: hotPink;
+	border-radius: 3px;
+	border-style: solid;
+	border-width: 1px;
+	color: black;
+	font-family: arial;
+	font-size: 10pt;
+	font-weight: bold;
+	margin-bottom: 2pt;
+	margin-top: 2pt;
+	height: auto;
+	width: 100px;
+}
+.productos2 input:hover {
+	background-color: white;
+	color: navy;
+	cursor: pointer;
+}
+
+.productos3 {
+	background-color: lavender;
+	border-collapse: collapse;
+	border-color: mediumVioletRed;
+	/*border-radius: 15px;*/
+	border-style: solid;
+	border-width: 1px;
+	color: black;
+	margin: auto;
+	width: 960px;	
+}
+.productos3 .firstLine {
+	background-color: white;
+	border-color: mediumVioletRed;
+	border-style: solid;
+	border-width: 1px;
+	color: black;
+	font-size: 12pt;
+	font-weight: bold;
+	text-align: center;
+	/*text-decoration: underline;*/
+}
+.productos3 .lineaAviso {
+	border-color: mediumVioletRed;
+	border-style: solid;
+	border-width: 1px;
+	margin: 1px;
+}
+.productos3 .lineaAviso td {
+	/*border-color: mediumVioletRed;
+	border-style: solid;
+	border-width: 1px;
+	border-right-width: 0px; 
+	border-bottom-color: pink;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;*/
+	text-align: center;
+}
+.productos3 a {
+	text-decoration: none;
+}
+.productos3 img {
+	border: 0px;
+}
+.productos3 input {
+	background-color: pink;
+	border-color: hotPink;
+	border-radius: 3px;
+	border-style: solid;
+	border-width: 1px;
+	color: black;
+	font-family: arial;
+	font-size: 10pt;
+	font-weight: bold;
+	margin-bottom: 2pt;
+	margin-top: 2pt;
+	height: auto;
+	width: 100px;
+}
+.productos3 input:hover {
+	background-color: white;
+	color: navy;
+	cursor: pointer;
+}
+
+/*** TABLA PRODUCTOS detalle Producto ***/
+.productosDetalle {
+	color: black;
+	border-width: 1px;
+	border-color: hotPink;
+	border-style: solid;
+	text-align: center;
+	width: 620px;
+	background-color: lavender;
+	font-weight: bold;
+	border-radius: 10px;
+}
+			  
+.menu_busqueda {
+	background-color: lavender;
+	border-collapse: collapse;
+	border-color: mediumVioletRed;
+	border-style: solid;
+	border-width: 1px;
+	color: black;
+	margin: auto;
+	text-align: center;
+	width: 600px;
+}
+.menu_busqueda th {
+	font-style: italic;
+	border-width: 1px;
+	border-color: mediumVioletRed;
+	border-style: solid;
+	background-color: hotPink;
+	font-size: 12pt;
+	color: white;
+}
+.menu_busqueda tr {
+	border-width: 0px;
+}
+.menu_busqueda td {
+	padding: 2px;
+}
+				 
+.result {
+	background-color: aqua;
+	border-width: 1px;
+	border-collapse: collapse;
+	border-color: mediumVioletRed;
+	border-radius: 15px;
+	border-style: solid;
+	/*background-color: lightPink;*/
+	color: black;
+	margin: auto;
+	width: 650px;
+}
+.result th {
+	text-align: center;
+	border-width: 1px;
+	border-color: mediumVioletRed;
+	border-style: solid;
+	/*border-right-width: 1px;*/
+	background-color: white;
+	font-size: 12pt;
+	color: black;
+}
+.result tr {
+	border-width: 1px;
+    border-color: mediumVioletRed;
+    border-style: solid;
+}
+.result .descripcion {
+	color: black; /*navy*/
+	font-style: normal;
+	font-weight: bold;
+}
+.result .existencias, .productos2 .existencias {
+	color: red; /*navy*/
+	font-style: italic;
+	font-weight: bold;
+	text-align: right;
+}
+.result .pedir {
+	text-align: right;
+}
+.result image {
+	border: 0px;
+}
+.result a {
+	text-decoration: none;
+}
+.result .details {
+	border-style: solid;
+    border-color: mediumVioletRed;
+	border-width: 1px;
+	border-bottom-color: hotPink;
+	border-left-width: 0px;
+	font-style: italic;
+	padding-bottom: 15px;
+	padding-left: 5px;
+	padding-top: 15px;
+	text-align: left;
+}
+.result .mini_detalle {
+	font-style: normal;
+}
+.result .quantity {
+	border-style: solid;
+    border-color: mediumVioletRed;
+	border-width: 1px;
+	border-left-width: 0px;
+	height: 30px;	
+	padding-right: 5px;
+}
+.result .images {
+	text-align: center;
+	background-color: white;
+	border-bottom-width: 1px;
+	border-bottom-color: mediumVioletRed;
+	border-bottom-style: solid;				
+}
+.result .images a {
+	cursor: zoom-in;
+}
+.result .inputTypeText {
+	width: 25px;	
+}
+
+/*** DETALLE PRODUCTOS ***/
+.resultProduct {
+	background-color: aqua;
+	border-width: 1px;
+	border-collapse: collapse;
+	border-color: mediumVioletRed;
+	/*border-radius: 15px;*/
+	border-style: solid;
+	/*background-color: lightPink;*/
+	color: black;
+	/*height: 141px !important;*/
+	width: 650px;
+}
+.resultProduct th {
+	text-align: center;
+	border-width: 1px;
+	border-color: mediumVioletRed;
+	border-style: solid;
+	/*border-right-width: 1px;*/
+	background-color: white;
+	font-size: 12pt;
+	color: black;
+}
+.resultProduct tr {
+	border-width: 1px;
+    border-color: mediumVioletRed;
+    border-style: solid;
+}
+.resultProduct .descripcion {
+	color: black; /*navy*/
+	font-style: normal;
+	font-weight: bold;
+}
+.resultProduct .existencias {
+	color: red; /*navy*/
+	font-style: italic;
+	font-weight: bold;
+	text-align: right;
+}
+.resultProduct .pedir {
+	text-align: right;
+}
+.resultProduct img {
+	border: 0px;
+	max-height: 132px !important;
+	vertical-align: middle;
+}
+.resultProduct a {
+	text-decoration: none;
+}
+.resultProduct .details {
+	border-style: solid;
+    border-color: mediumVioletRed;
+	border-width: 1px;
+	/*border-bottom-color: mediumVioletRed;*/
+	border-left-width: 0px;
+	font-style: italic;
+	height: 109px !important; /* Tiene padding y bordes, hasta un total de 140px */
+	padding-bottom: 15px;
+	padding-left: 5px;
+	padding-top: 15px;
+	text-align: left;
+}
+.resultProduct .mini_detalle {
+	font-style: normal;
+}
+.resultProduct .quantity {
+	border-style: solid;
+    border-color: mediumVioletRed;
+	border-width: 1px;
+	border-left-width: 0px;
+	height: 30px;	
+	padding-right: 5px;
+}
+.resultProduct .images {
+	background-color: white;
+	border-bottom-width: 1px;
+	border-bottom-color: mediumVioletRed;
+	border-bottom-style: solid;	
+	/*height: 110px;*/
+	text-align: center;
+}
+.resultProduct .images a {
+	cursor: zoom-in;
+}
+.resultProduct input {
+	background-color: pink;
+	border-color: hotPink;
+	border-radius: 3px;
+	border-style: solid;
+	border-width: 1px;
+	color: black;
+	font-family: arial;
+	font-size: 10pt;
+	font-weight: bold;
+	margin-bottom: 2pt;
+	margin-top: 2pt;
+	height: auto;
+	width: 100px;
+}
+.resultProduct input:hover {
+	background-color: white;
+	color: navy;
+	cursor: pointer;
+}
+
+
+.result2 {
+	background-color: lightPink;
+	border-collapse: collapse;
+	border-color: MediumVioletRed;
+	border-style: solid;
+	border-width: 1px;
+	color: black;
+	margin: auto;
+	width: 650px;
+}
+.result2 td {
+	text-align: center;
+	background-color: white;
+	font-size: 12pt;
+	color: black;
+	font-weight: bold;
+}
+.result2 tr {
+	border-width: 0px;
+}
+.result2 input {
+	background-color: pink;
+	border-color: hotPink;
+	border-radius: 3px;
+	border-style: solid;
+	border-width: 1px;
+	color: black;
+	font-family: arial;
+	font-size: 10pt;
+	font-weight: bold;
+	margin-bottom: 2pt;
+	margin-top: 2pt;
+	height: auto;
+	width: 100px;
+}
+.result2 input:hover {
+	background-color: white;
+	color: navy;
+	cursor: pointer;
+}
+
+.numProduct {
+	background-color: white;
+	border-collapse: collapse;
+	border-color: mediumVioletRed;
+	border-style: solid;
+	border-width: 1px;
+	color: red;
+	font-weight: bold;
+	text-align: center;
+}
+
+/*** DATOS DE USUARIO ***/
+.datos {
+	background-color: lavender;
+	border-collapse: collapse;
+	border-color: mediumVioletRed;
+	border-style: solid; 
+	border-width: 1px;
+	margin: auto;
+	width: 600px;
+}
+.datos th {
+	background-color: white;
+	border-width: 1px;
+	border-color: mediumVioletRed;
+	border-style: solid;
+}
+.datos #fechaAlta {
+	margin-left: 2px; /* Al colocar el width se echa un poco hacia la izquierda y se desalinea */
+	width: 65px;	
+}
+
+
+/*** COMPRAS (carrito) ***/
+.compras {
+	background-color: lavender;
+	border-collapse: collapse;
+	border-color: mediumVioletRed;
+	border-style: solid;
+	border-width: 1px;
+	margin: auto;
+	width: 960px;
+}
+.compras td {
+	border-width: 0px;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+.compras th {
+	background-color: white;
+	border-color: hotPink;
+	border-style: none;
+	border-width: 1px;
+}
+.compras tr {
+	border-color: mediumVioletRed;
+	border-style: solid;
+	border-width: 1px;
+}
+.compras input {
+	background-color: pink;
+	border-color: hotPink;
+	border-radius: 3px;
+	border-style: solid;
+	border-width: 1px;
+	color: black;
+	font-family: arial;
+	font-size: 10pt;
+	font-weight: bold;
+	margin-bottom: 2pt;
+	margin-top: 2pt;
+	height: auto;
+	width: auto;
+}
+.compras input:hover {
+	background-color: white;
+	color: navy;
+	cursor: pointer;
+}
+.compras .firstLine {
+	background-color: hotPink;
+	border-color: mediumVioletRed;
+	border-style: solid;
+	border-width: 1px; 
+	font-weight: bold;
+}
+.compras .lineaVenta {
+	border-bottom-color: hotPink !important;
+	border-bottom-style: solid !important;
+	border-bottom-width: 1px;
+	/*border-color: hotPink;
+	border-style: solid;
+	border-width: 1px;*/
+	padding-left: 5px;
+	padding-right: 5px;
+}
+.compras .numProduct {
+	border-color: mediumVioletRed !important;
+	border-style: solid !important;
+	border-width: 1px;
+}
+.compras .enlaceSinNegrita {
+	font-weight: normal;
+}
+
+
+.enlace_atras {
+	border-color: hotPink;
+	border-radius: 3px;
+	border-style: solid;
+	border-width: 1px;
+	color: black;
+	font-weight: bold;
+	margin: auto;
+	text-align: center;
+	width: 400px;
+}
+.enlace_atras tr td {
+	text-align: center;
+	border-width: 1px;
+	background-color: lightPink;
+	border-radius: 3px;
+}
+.enlace_atras td:hover {
+	color: white;
+	background-color: hotPink;
+}
+.enlace_atras a {
+	text-decoration: none;
+	color: black;
+}
+.enlace_atras a:hover {
+	text-decoration: none;
+	color: white;
+}
+.enlace_atras .validarCarrito {
+	background-color: aqua;
+	border-width: 1px;
+	border-color: white;
+	border-style: solid;
+}
+.enlace_atras .validarCarrito:hover {
+	background-color: white;
+	border-width: 1px;
+	border-color: hotPink;
+	border-style: solid;
+}
+.enlace_atras .validarCarrito a:hover {
+	text-decoration: underline;
+	color: navy;
+}
+.enlace_atras input {
+	background-color: aqua;
+	border-color: white;
+	border-radius: 3px;
+	border-style: solid;
+	border-width: 1px;
+	color: black;
+	font-family: arial;
+	font-size: 12pt;
+	font-weight: bold;
+	height: auto;
+	width: 400px;
+}
+.enlace_atras input:hover {
+	background-color: white;
+	color: navy;
+	cursor: pointer;
+}
+
+.usuario {
+	cursor: default;
+}
+
+.bienvenido {
+	cursor: default;
+	font-weight: bold;
+}
+
+.inputTypeText {
+	border-color: hotPink;
+	border-radius: 2px;
+	border-style: solid;
+	border-width: 1px;
+	padding-left: 2px;
+	padding-right: 2px;
+	text-align: right;	
+}
+
+.enlaceSinNegrita {
+	font-weight: normal;	
+}
+
+/*** FLECHAS DE ORDENACIÓN ***/
+.arrow {
+	cursor: default;
+	font-weight: bold;
+	text-decoration: none;
+}

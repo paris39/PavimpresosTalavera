@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="admin_activate.tpl" server="pavimpresostalavera.es" local="131738180026193775" remote="131758018200000000" Dst="2" />
+<file name="admin_send_email.tpl" server="pavimpresostalavera.es" local="131738180026193775" remote="131758018200000000" Dst="2" />
+<file name="admin_welcome_inactive.tpl" server="pavimpresostalavera.es" local="131738180023994109" remote="131758018200000000" Dst="2" />
+<file name="admin_welcome_activated.tpl" server="pavimpresostalavera.es" local="131738180023754151" remote="131758018200000000" Dst="2" />
+<file name="coppa_welcome_inactive.tpl" server="pavimpresostalavera.es" local="131738180021884451" remote="131758018200000000" Dst="2" />
+<file name="group_added.tpl" server="pavimpresostalavera.es" local="131738180021744468" remote="131758018200000000" Dst="2" />
+<file name="group_approved.tpl" server="pavimpresostalavera.es" local="131738180018524976" remote="131758018200000000" Dst="2" />
+<file name="group_request.tpl" server="pavimpresostalavera.es" local="131738180019304853" remote="131758018200000000" Dst="2" />
+<file name="privmsg_notify.tpl" server="pavimpresostalavera.es" local="131738180015584773" remote="131758018200000000" Dst="2" />
+<file name="profile_send_email.tpl" server="pavimpresostalavera.es" local="131738180012175311" remote="131758018200000000" Dst="2" />
+<file name="index.htm" server="pavimpresostalavera.es" local="131738180016354643" remote="131758018200000000" Dst="2" />
+<file name="user_activate.tpl" server="pavimpresostalavera.es" local="131738180009325756" remote="131758018200000000" Dst="2" />
+<file name="user_activate_passwd.tpl" server="pavimpresostalavera.es" local="131738180009055798" remote="131758018200000000" Dst="2" />
+<file name="topic_notify.tpl" server="pavimpresostalavera.es" local="131738180011645394" remote="131758018200000000" Dst="2" />
+<file name="user_welcome.tpl" server="pavimpresostalavera.es" local="131738180007895986" remote="131758018200000000" Dst="2" />
+<file name="user_welcome_inactive.tpl" server="pavimpresostalavera.es" local="131738180007506038" remote="131758018200000000" Dst="2" />
+</dwsync>

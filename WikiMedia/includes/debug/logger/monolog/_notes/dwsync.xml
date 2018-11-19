@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AvroFormatter.php" server="pavimpresostalavera.es" local="131738214015164660" remote="131758024800000000" Dst="2" />
+<file name="BufferHandler.php" server="pavimpresostalavera.es" local="131738214013502648" remote="131758024800000000" Dst="2" />
+<file name="KafkaHandler.php" server="pavimpresostalavera.es" local="131738214012444337" remote="131758024800000000" Dst="2" />
+<file name="LegacyFormatter.php" server="pavimpresostalavera.es" local="131738214010596427" remote="131758024800000000" Dst="2" />
+<file name="LegacyHandler.php" server="pavimpresostalavera.es" local="131738214010093366" remote="131758024800000000" Dst="2" />
+<file name="LineFormatter.php" server="pavimpresostalavera.es" local="131738214009390412" remote="131758024800000000" Dst="2" />
+<file name="SyslogHandler.php" server="pavimpresostalavera.es" local="131738214008089293" remote="131758024800000000" Dst="2" />
+<file name="WikiProcessor.php" server="pavimpresostalavera.es" local="131738214007215554" remote="131758024800000000" Dst="2" />
+<file name="LogstashFormatter.php" server="pavimpresostalavera.es" local="131738214008860496" remote="131758024800000000" Dst="2" />
+</dwsync>
