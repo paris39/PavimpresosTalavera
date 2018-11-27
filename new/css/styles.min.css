@@ -346,6 +346,9 @@ section#main img {
 .junto {
 	letter-spacing: -0.8px;
 }
+.muyJunto {
+	letter-spacing: -1.4px;
+}
 #works .portfolio-item .portfolio-caption p {
 	font-size:16px;
 	font-style:italic;
