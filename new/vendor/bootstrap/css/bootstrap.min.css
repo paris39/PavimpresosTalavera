@@ -3218,7 +3218,8 @@ border-radius:1rem;
 	-ms-flex-pack: justify;
 	justify-content: space-between;
 	padding: .5rem 1rem;
-	border-bottom-color: #fed136;
+	/*border-bottom-color: #fed136;*/
+	border-bottom-color: lime;
 	border-bottom-style: solid;
 	border-bottom-width: 3px;
 }
@@ -3376,7 +3377,8 @@ border-radius:1rem;
 	.navbar-expand-md .navbar-toggler {
 		display: none;
 		
-		border-bottom-color: #fed136;
+		/*border-bottom-color: #fed136;*/
+		border-bottom-color: lime;
 		border-bottom-style: solid;
 		border-bottom-width: 4px;
 	}
