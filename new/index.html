@@ -70,6 +70,15 @@
 				}
 			}
 		</script>
+		<script>
+			(function(d, s, id) {
+				  var js, fjs = d.getElementsByTagName(s)[0];
+				  if (d.getElementById(id)) return;
+				  js = d.createElement(s); js.id = id;
+				  js.src = 'https://connect.facebook.net/es_ES/sdk.js#xfbml=1&version=v3.2';
+				  fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));
+		</script>
 		<!--//FIN BLOQUE COOKIES-->
 	</head>
 
@@ -1024,7 +1033,7 @@
 							Calle Lagartera 2, Talavera de la Reina, Toledo 
 						</span>
 					</div>
-					<div class="col-md-3">
+					<div class="col-md-4">
 						<ul class="list-inline social-buttons">
 							<li class="list-inline-item">
 								<a class="socialNetworks" href="https://www.facebook.com/Pavimpresostalavera-260629230940309/">
@@ -1040,6 +1049,9 @@
 									<i class="fa fa-google-plus"></i>
 								</a>
 							</li-->
+							<li class="list-inline-item">
+								<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FPavimpresostalavera-260629230940309%2F&tabs&width=340&height=180&small_header=false&adapt_container_width=false&hide_cover=false&show_facepile=true&appId" width="340" height="180" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+							</li>
 						</ul>
 					</div>
 					<div class="col-md-4">
@@ -1053,6 +1065,7 @@
 							</li>
 						</ul>
 					</div>
+					
 				</div>
 			</div>
 		</footer>
