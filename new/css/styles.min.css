@@ -23,11 +23,11 @@ a {
 }
 .email {
 	color:#212529;
-	
+	font-weight: bold;
 }
 .email:hover {
-	color:black
-	
+	color: lime;
+	background-color: transparent;
 }
 a:hover {
 	/*color:#fec503*/
