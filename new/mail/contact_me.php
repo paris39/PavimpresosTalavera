@@ -19,7 +19,7 @@
 	$message = strip_tags(htmlspecialchars($_POST['message']));
 	   
 	// Create the email and send the message
-	$to = 'webmaster@pavimpresostalavera.es'; // Add your email address inbetween the '' replacing yourname@yourdomain.com - This is where the form will send a message to.
+	$to = 'andres@pavimpresostalavera.es'; // Add your email address inbetween the '' replacing yourname@yourdomain.com - This is where the form will send a message to.
 	$email_subject = "Contacto desde formulario Web:  $name";
 	$email_body = "Has recibido un nuevo mensaje desde el formulario de contacto de www.pavimpresostalavera.es.\n\n <br /><br />"."Aqu&iacute; est&aacute;n los detalles: <br /><br /> Nombre: $name  <br /><br /> Email: $email_address <br /><br /> Tel&eacute;fono: $phone <br /><br /> Mensaje: <br />$message";
 	$headers = "Content-type: text/html; charset=UTF-8 <br />";
